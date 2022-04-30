@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "android": {
+      "package": "com.planit.planit"
+    }
+  },
+  "name": "io.planit.planit",
+  "displayName": "Planit"
+}

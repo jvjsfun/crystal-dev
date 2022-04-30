@@ -1,25 +1,47 @@
 {
-  "name": "bell-react-web-app",
+  "name": "io.planit.planit",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "^3.1.1"
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest-expo": "~20.0.0",
+    "react-native-static-images": "^1.2.0",
+    "react-test-renderer": "16.0.0-alpha.12"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "jest": {
+    "preset": "jest-expo"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "dependencies": {
+    "firebase": "^4.4.0",
+    "lockit-couchdb-adapter": "^0.5.1",
+    "moment": "^2.21.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.48.0",
+    "react-native-calendar-events": "^1.4.3",
+    "react-native-calendars": "^1.16.1",
+    "react-native-elements": "^0.16.0",
+    "react-native-fcm": "^11.2.0",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-firebase": "^3.0.6",
+    "react-native-gifted-chat": "^0.3.0",
+    "react-native-google-place-picker": "^1.2.1",
+    "react-native-google-places-autocomplete": "^1.2.8",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-keyboard-aware-scroll-view": "^0.4.1",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-native-modal-dropdown": "^0.5.0",
+    "react-native-modal-picker": "0.0.16",
+    "react-native-modal-selector": "0.0.19",
+    "react-native-swipeout": "^2.3.1",
+    "react-native-vector-icons": "^4.3.0",
+    "react-native-viewpager": "^0.2.13",
+    "react-native-wheel-picker": "^1.1.1",
+    "react-navigation": "^1.1.1"
+  }
 }

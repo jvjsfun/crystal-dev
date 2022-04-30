@@ -1,0 +1,242 @@
+[
+{
+hours : '1',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '1',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '2',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '2',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '3',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '3',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '4',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '4',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '5',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '5',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '6',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '6',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '7',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '7',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '8',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '8',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '9',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '9',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '10',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '10',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '11',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '11',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '12',
+minutes : '00',
+AMPM : 'AM',
+},
+{
+hours : '12',
+minutes : '30',
+AMPM : 'AM',
+},
+{
+hours : '1',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '1',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '2',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '2',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '3',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '3',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '4',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '4',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '5',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '5',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '6',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '6',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '7',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '7',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '8',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '8',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '9',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '9',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '10',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '10',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '11',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '11',
+minutes : '30',
+AMPM : 'PM',
+},
+{
+hours : '12',
+minutes : '00',
+AMPM : 'PM',
+},
+{
+hours : '12',
+minutes : '30',
+AMPM : 'PM',
+},
+]

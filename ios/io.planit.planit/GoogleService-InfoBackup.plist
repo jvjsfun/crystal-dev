@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>638460999015-i4gqs388m469d2phmodn6r6h0271691v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.638460999015-i4gqs388m469d2phmodn6r6h0271691v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYo8BMikNK4tIvm5We3lkaze8nvpDw4p4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>638460999015</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.Planit.Planit</string>
+	<key>PROJECT_ID</key>
+	<string>planit-firebase-c354a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>planit-firebase-c354a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:638460999015:ios:7c24c92522967f8f</string>
+	<key>DATABASE_URL</key>
+	<string>https://planit-firebase-c354a.firebaseio.com</string>
+</dict>
+</plist>
